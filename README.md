@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 👩‍💻I'm currently working on web development
-🌱 I’m currently learning backend tools
+🌱 I’m currently learning python
 💬 Ask me about SQL, Java
 
 <!--
