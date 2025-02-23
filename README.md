@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+👩‍💻I'm currently working on web development
+🌱 I’m currently learning backend tools
+💬 Ask me about SQL, Java
+
 <!--
 **meghana0263/meghana0263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
