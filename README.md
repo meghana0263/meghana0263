@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 👩‍💻I'm currently working on web development<br/>
-🌱 I’m currently learning frontend<br/>
+🌱 I’m currently learning springboot<br/>
 💬 Ask me about SQL, Java<br/>
 
 
